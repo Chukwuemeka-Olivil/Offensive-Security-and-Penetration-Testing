@@ -14,8 +14,6 @@ The work demonstrates practical application of offensive-security concepts, secu
 
 ### Lab 1 — Web Application Security Testing
 
-**File:** `Lab-1-Web-Application-Security-Testing.pdf`
-
 This laboratory focuses on assessing web application security using **Burp Suite** and **OWASP ZAP**.
 
 Topics include:
@@ -35,8 +33,6 @@ Topics include:
 
 ### Lab 2 — Command Injection and Reverse Shell
 
-**File:** `Lab-2-Command-Injection-and-Reverse-Shell.pdf`
-
 This laboratory focuses on understanding command injection vulnerabilities and demonstrating reverse-shell concepts using **DVWA** and **Netcat** in a controlled environment.
 
 Topics include:
@@ -53,8 +49,6 @@ Topics include:
 ---
 
 ### Lab 3 — DNS and SMB Enumeration
-
-**File:** `Lab-3-DNS-and-SMB-Enumeration.pdf`
 
 This laboratory focuses on DNS analysis and SMB enumeration using command-line security tools.
 
@@ -74,8 +68,6 @@ Topics include:
 
 ### Lab 4 — Tor and Proxychains Anonymity Testing
 
-**File:** `Lab-4-Tor-and-Proxychains-Anonymity-Testing.pdf`
-
 This laboratory examines Tor-based traffic routing and Proxychains configuration, with emphasis on the capabilities and limitations of anonymity technologies.
 
 Topics include:
@@ -94,8 +86,6 @@ Topics include:
 ---
 
 ### Lab 5 — Password Security with John the Ripper
-
-**File:** `Lab-5-Password-Security-with-John-the-Ripper.pdf`
 
 This laboratory focuses on password security assessment and password-hash auditing using **John the Ripper**.
 
